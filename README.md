@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuvraj-singh](https://www.linkedin.com/in/yuvraj-singh-009284293/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/yuvraj-singh-009284293/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://x.com/YuvrajS1275"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://web.telegram.org/a/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
