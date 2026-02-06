@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Hi, I'm Yuvraj..(yuvii) :wave:
+    Hi, I'm Yuvraj(yuvii) :wave:
     <br><br>
     I'm a web developer on a mission to turn my caffeine addiction into clean code, one bug at a time. Mastering the web – greatness incoming! 🧿 :computer:
     <br><br>
