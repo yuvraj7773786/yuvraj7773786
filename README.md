@@ -1,80 +1,31 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-  <samp>
-    Hi, I'm Yuvraj :wave:
-    <br><br>
-    I'm a web developer on a mission to turn my caffeine addiction into clean code, one bug at a time. Mastering the web – greatness incoming! 🧿 :computer:
-    <br><br>
-    I love learning new technologies and improving my skills, with a particular focus on React and JavaScript. 
-    <br><br>
-    P.S. Yes, I know React is not magic, but sometimes it feels like it! :zap:
-  </samp>
-</p>
+<div align="center"> <img src="./banner.gif" width="100%" alt="digital rain banner"/> </div> <h1 align="center">Yuvraj Singh</h1> <h3 align="center">Security Engineer in the making · Builder at heart</h3> <p align="center"> <img src="https://img.shields.io/badge/status-actively--learning-00FF41?style=flat-square&labelColor=0a0e0a"/> <img src="https://img.shields.io/badge/focus-SOC%20%7C%20Blue%20Team-00FF41?style=flat-square&labelColor=0a0e0a"/> <img src="https://img.shields.io/badge/based%20in-New%20Delhi%2C%20India-00FF41?style=flat-square&labelColor=0a0e0a"/> </p> <br>
+👋 About Me
 
+I'm a Security Engineer passionate about building tools and solving complex problems in the cybersecurity domain. I'm always exploring new areas within the field. I build open-source cybersecurity software.
+
+- 🎓 Final-year B.Tech CSE student at KR Mangalam University, Gurugram
+- 🔍 Hands-on with SOC fundamentals — SSH brute-force simulation, log analysis on `/var/log/auth.log`, and gap analysis with Fail2Ban / SSH hardening recommendations
+- 🎯 Google Cybersecurity Professional Certificate (Coursera) · Mastercard Cybersecurity Job Simulation (Forage)
+- 💻 Full-stack engineering background (MERN) — I understand systems as both builder and attacker
+- 📡 Currently deepening Cloud Security (Azure), SIEM, and Threat Hunting
 <br>
-
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-  
-  ---
-
-### 🏄‍♂️ Fun Facts & Hobbies
-
-- 🎤 **Singing** (I may not be a rockstar, but I sure am the shower concert champion!) 
-- 📚 **Reading books** (I swear I'm in a committed relationship with my bookshelf) 
-- 🎮 **Gaming** (If there's a game that involves crushing something... I'm in!)
-- 🕺 **Dancing** (Not professionally, but I can bust some moves when nobody’s looking)
-- 🏖️ **Daydreaming about vacations** (Mostly daydreaming, haven’t figured out how to pay for it yet)
-
----
-
-### ⚡ Currently…
-
-- Leveling up my **React** skills.
-- Doing magic with **TailwindCSS** for jaw-dropping UIs.
-- Mastering the art of **Shell Scripting**.
-- Experimenting with **Linux** (because my PC deserves the best).
-- Writing code so clean 😎.
-
----
-
----
-
-### - Languages and Tools...
-
-<p align="center">
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-
-</p>
-
----
-
-</details>
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuvraj-singh-009284293/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://x.com/YuvrajS1275"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="https://web.telegram.org/a/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
-</p>
-
-<p align="center">
-  <i> Open to new challenges and collaboration opportunities! :sparkles: </i>
-</p>
-
-<br>
-
-<p align="center">
-  Made with :blue_heart: using GitHub Markdown &nbsp;:arrow_down:
-</p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuvraj7773786&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0a0e0a&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj7773786&theme=github-dark-blue&hide_border=true&background=0a0e0a&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj7773786&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e0a&title_color=00FF41&text_color=c9d1d9" width="45%"/> </div> <br>
+🛡️ Security Operations
+<div align="center"> <img src="https://img.shields.io/badge/SOC-Blue%20Team-0a0e0a?style=for-the-badge&logo=shieldsdotio&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Threat%20Detection-0a0e0a?style=for-the-badge&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Log%20Analysis-0a0e0a?style=for-the-badge&logo=splunk&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Incident%20Response-0a0e0a?style=for-the-badge&logoColor=00FF41"/> <img src="https://img.shields.io/badge/System%20Hardening-0a0e0a?style=for-the-badge&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Network%20Security-0a0e0a?style=for-the-badge&logoColor=00FF41"/> </div>
+🐧 Linux
+<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </div>
+🌐 Networking
+<div align="center"> <img src="https://img.shields.io/badge/TCP%2FIP-0a0e0a?style=for-the-badge&logoColor=00FF41"/> <img src="https://img.shields.io/badge/DNS-0a0e0a?style=for-the-badge&logoColor=00FF41"/> <img src="https://img.shields.io/badge/SSH-0a0e0a?style=for-the-badge&logo=gnubash&logoColor=00FF41"/> <img src="https://img.shields.io/badge/NAT-0a0e0a?style=for-the-badge&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Bridged%20Networking-0a0e0a?style=for-the-badge&logoColor=00FF41"/> </div>
+☁️ Cloud <sub>(learning phase)</sub>
+<div align="center"> <img src="https://skillicons.dev/icons?i=azure&theme=dark"/> <img src="https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white"/> </div>
+💻 Programming
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,bash,html,css,react,nodejs,mongodb&theme=dark"/> </div>
+⚙️ Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,obsidian&theme=dark"/> </div> <br>
+📚 Currently Learning
+<div align="center"> <img src="https://img.shields.io/badge/SOC-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Cloud%20Security-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Azure%20Fundamentals-0a0e0a?style=flat-square&logo=microsoftazure&logoColor=00FF41"/> <img src="https://img.shields.io/badge/DevOps-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Security%20Automation-0a0e0a?style=flat-square&logo=python&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Threat%20Hunting-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Digital%20Forensics-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/SIEM%20Fundamentals-0a0e0a?style=flat-square&logo=splunk&logoColor=00FF41"/> </div> <br>
+🧠 Interests
+<div align="center"> <img src="https://img.shields.io/badge/Cybersecurity-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Linux-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Networking-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Cloud-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/System%20Security-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Open%20Source-0a0e0a?style=flat-square&logoColor=00FF41"/> <img src="https://img.shields.io/badge/Automation-0a0e0a?style=flat-square&logoColor=00FF41"/> </div> <br>
+🔗 Connect
+<div align="center"> <a href="https://www.linkedin.com/in/yuvraj-singh-009284293/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:yuvnikku7773@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/yuvraj7773786"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <div align="center"> <img src="./banner.gif" width="100%" alt="digital rain footer"/> </div>
